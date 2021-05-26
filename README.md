@@ -2,6 +2,8 @@
 Projekat iz predmeta "Računarska grafika", akademska 2020./2021. godina, 5. semestar (treća godina I ciklusa studija na Elektrotehničkom fakultetu Univerziteta u Sarajevu, 
 Odsjek za računarstvo i informatiku).
 
+Haydarpaşa Railway Station, Istanbul, Turkey
+
 Link na Google Drive gdje se nalazi projekat:
 https://drive.google.com/drive/folders/1vFKEqtACz0Z7Pa8KABJWetrezjpXDzjN?usp=sharing
 
